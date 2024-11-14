@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", SL VS NZ
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", WI VS ENG
+https://dai.google.com/linear/hls/event/6459M3jYSGWtvUihF_ZZkg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", AFG VS BAN
+https://dai.fancode.com/linear/hls/event/0r7zX9QJRqm1gcj44GWngQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", IND VS SA ENG 
