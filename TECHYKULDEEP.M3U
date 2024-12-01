@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", AUS VS IND
 https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?%7CdrmScheme=clearkey&drmLicense=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", WBBL T20
-https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?%7CdrmScheme=clearkey&drmLicense=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", NZ VS ENG
 https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 
@@ -13,7 +10,7 @@ https://dai.google.com/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 https://dai.google.com/linear/hls/event/2rZxHxCsQSKZXuPybIZVxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", PAK VS ZIM
-https://dai.google.com/linear/hls/event/vc72BGEySqmZPs_uoyIKWg/master.m3u8
+https://dai.google.com/linear/hls/event/grd-0vMNSU-0gHX8yAm-sg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA VS SL
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_281124/master.m3u8
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_051224/master.m3u8
