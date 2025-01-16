@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", NZ VS SL
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", IND W VS IRE W
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", AUS W VS ENG W
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", PAK VS WI
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpQ7cqawW9V6XmwN1nO7vTzQx-TOSF0avLXg&usqp=CAU", SUPER SMASH T20 
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
@@ -18,4 +18,4 @@ https://dai.google.com/ssai/event/7O66u_GtQnqzsFfrnpNwOQ/master.m3u8
 https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xn0i77gUK5YfpBZlyuozEL8rThZc6FkX0ozZjVyogstEg7xUtrUdIDPuiwZWsQ9MjA", SA20
-https://abfdm2saaaaaaaamljqrv7ybrrx7h.47348d5020154bfaac6dd4418cd23c5d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sgr0rdwgr6/out/v1/eaf55821b7e044438552781ae42884f1/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1c2e7573b6ff6565c5f8a9fdb32548d2:2c0ec8e6291217a3ba100a83299922f6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
